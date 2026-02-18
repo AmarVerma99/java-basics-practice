@@ -32,3 +32,16 @@ To strengthen Java fundamentals for placements and interviews.
 - [ ] OOP
 - [ ] Extra Problems
 
+
+1. Variables & Data Types
+✅ Questions:
+
+Program to print your name, age, and branch.
+
+Take two integers and print their sum.
+
+Convert double to int (typecasting example).
+
+Swap two numbers (without third variable).
+
+Find area of circle (input radius).
